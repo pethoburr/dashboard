@@ -9,6 +9,7 @@
     width: 100vw;
     display: grid;
     grid-template-columns: 1fr 4fr;
+    grid-template-rows: 1fr 4fr;
 }
 
 header {
@@ -43,6 +44,8 @@ header {
 
 .second {
     display: flex;
+    margin: 0;
+    padding: 0;
 }
 
 ul {
