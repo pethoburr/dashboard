@@ -165,7 +165,7 @@ button {
 
 button:hover {
     opacity: .5;
-    cursor: crosshair;
+    cursor: pointer;
     transform: scale(1.1);
 }
 
@@ -277,7 +277,7 @@ button:hover {
 }
 
 svg:hover {
-    cursor: crosshair;
+    cursor: pointer;
 }
 
 img {
